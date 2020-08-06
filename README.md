@@ -22,14 +22,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo1470&theme=tokyonight&repo=holbertonschool-higher_level_programming" />
 </a>
 
-<br><br><br>
-
 ---
 
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="left" width="100" height="30"></a>
 
 ---
-<p></p>
+
 ---
 
 > ## contact 💬
