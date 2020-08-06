@@ -19,8 +19,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo1470&theme=tokyonight&repo=holbertonschool-higher_level_programming" />
 </a>
 
+<br>
+<br>
 ---
-
+<br>
 ---
 > ## contact 💬
 
