@@ -15,6 +15,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo1470&theme=tokyonight&repo=holbertonschool-low_level_programming" />
 </a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo1470&theme=tokyonight&repo=holbertonschool-higher_level_programming" />
+</a>
+
 ---
 
 ---
