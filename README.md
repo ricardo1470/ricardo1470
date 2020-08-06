@@ -1,7 +1,8 @@
 > # Ricardo Camayo Software Engineer
 ---
 
-[! [Estadísticas de github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = ricardo1470 )] (https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ricardo1470&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo1470&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 > ## contact 💬
