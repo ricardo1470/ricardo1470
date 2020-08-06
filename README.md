@@ -21,14 +21,18 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo1470&theme=tokyonight&repo=holbertonschool-higher_level_programming" />
 </a>
 
-
-
 <br>
-
 <br>
 
 ---
 
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="left" width="100" height="30"></a>
+
+---
+---
+> ## contact 💬
+
+| [twitter](https://twitter.com/RICARDO1470) | [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/) | [mail](1466@holbertonschool.com) | [github](https://github.com/ricardo1470/README/blob/master/README.md) |
+|---|---|---|---|
 
 ---
