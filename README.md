@@ -27,8 +27,9 @@
 <a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="left" width="100" height="30"></a>
 
 ---
-
+<p></p>
 ---
+
 > ## contact 💬
 
 | [twitter](https://twitter.com/RICARDO1470) | [linkedin](https://www.linkedin.com/in/ricardo-alfonso-camayo/) | [mail](1466@holbertonschool.com) | [github](https://github.com/ricardo1470/README/blob/master/README.md) |
