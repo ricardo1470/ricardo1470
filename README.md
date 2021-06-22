@@ -1,4 +1,4 @@
-> # Ricardo Camayo Student Software Engineer
+> # Software Engineer | Backend Nodejs dev | ARVR Student
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ricardo1470&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
