@@ -24,6 +24,7 @@
 ---
 ## My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ricardo1470&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo1470&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo1470theme=vue-dark"></a>
 <br>
 ---
 
