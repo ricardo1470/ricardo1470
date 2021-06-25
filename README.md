@@ -5,7 +5,7 @@
 <a href="personal logo"><img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Backend.png" align="middle" width="1000" height="600"></a>
 
 ---
-### Languages and Tools
+## Languages and Tools
 <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png"></code>&nbsp;
 <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png"></code>&nbsp;
 <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/css3_logo.png"></code>&nbsp;
@@ -22,7 +22,7 @@
 <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/images.jpg"></code>&nbsp;
 
 ---
-### My Stats ✨
+## My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ricardo1470&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo1470&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
 <br>
 
