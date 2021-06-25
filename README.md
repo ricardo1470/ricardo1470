@@ -14,7 +14,6 @@
 <code><img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg"></code>&nbsp;
 <code><img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/postgresql.png"></code>&nbsp;
 <code><img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png"></code>&nbsp;
-
 <code><img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/mongodb-logo.png"></code>&nbsp;
 <code><img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/scrum.png"></code>&nbsp;
 <code><img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/visual-studio-code-logo.png"></code>&nbsp;
