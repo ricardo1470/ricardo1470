@@ -8,8 +8,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo1470&theme=tokyonight&repo=README" />
 </a>
 
-<br>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardo1470&theme=tokyonight&repo=binary_trees" />
 </a>
