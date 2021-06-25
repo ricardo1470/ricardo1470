@@ -28,7 +28,7 @@
 <br>
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricardo1470&title=Commit,MultiLanguage,Repositories,Stars,Followers,PullRequest&theme=darkhub&no-frame=true&margin-w=2&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ricardo1470&title=Commit,MultiLanguage,Repositories,Stars,Followers,PullRequest&theme=darkhub&no-frame=true&margin-w=2&no-bg=false&theme=vue-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="center">
