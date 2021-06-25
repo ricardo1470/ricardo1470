@@ -25,6 +25,10 @@
 ## My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ricardo1470&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo1470&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
 <br>
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ricardo1470&title=Commit,Repositories,Stars,Followers,PullRequest,Issues&theme=darkhub&no-frame=true&margin-w=2&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <div align="center">
 
