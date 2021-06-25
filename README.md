@@ -1,3 +1,5 @@
+<a href="personal logo"><img src="https://drive.google.com/file/d/1LAbiCOx9PnswiiIWibGeJZ_6mSRshCNz/view?usp=sharing" align="middle" width="800" height="400"></a>
+---
 > # Software Engineer | Backend Nodejs dev | ARVR Student
 ---
 
