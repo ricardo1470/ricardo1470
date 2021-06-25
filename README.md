@@ -7,7 +7,6 @@
 ### Languages and Tools
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png"></code>&nbsp;
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png"></code>&nbsp;
-<code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/csh.png"></code>&nbsp;
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/css3_logo.png"></code>&nbsp;
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/html5_logo.png"></code>&nbsp;
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png"></code>&nbsp;
