@@ -4,7 +4,7 @@
 
 <a href="personal logo"><img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Backend.png" align="middle" width="1000" height="600"></a>
 ---
-### Languages
+### Languages and Tools
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png"></code>&nbsp;
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png"></code>&nbsp;
 <code><img height="60" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/css3_logo.png"></code>&nbsp;
