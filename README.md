@@ -1,6 +1,8 @@
-<a href="personal logo"><img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Backend.png" align="middle" width="1000" height="600"></a>
----
+
 > # Software Engineer | Backend Nodejs dev | ARVR Student
+---
+
+<a href="personal logo"><img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Backend.png" align="middle" width="1000" height="600"></a>
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ricardo1470&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
