@@ -1,8 +1,9 @@
 
 > # Backend Nodejs dev | ARVR dev
 ---
-
-<a href="personal logo"><img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo1.gif" align="center" width="600" height="600"></a>
+<div align="center">
+    <a href="personal logo"><img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo1.gif" align="middle" width="600" height="600"></a>
+</div>
 
 ---
 ## Languages and Tools
