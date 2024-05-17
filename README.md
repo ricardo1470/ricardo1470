@@ -19,15 +19,6 @@
     <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/vuforia.png"></code>&nbsp;
     <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/images.jpg"></code>&nbsp;
 </div>
----
-## My Stats ✨
-<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ricardo1470&show_icons=true&theme=vue-dark" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo1470&count_private=true&show_icons=true&theme=vue-dark&layout=compact" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo1470&theme=vue-dark"></a>
-<br>
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricardo1470&title=Commit,MultiLanguage,Repositories,Stars,Followers,PullRequest&theme=darkhub&no-frame=true&margin-w=2&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <div align="center">
 
