@@ -12,7 +12,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy un desarrollador apasionado por la creación de aplicaciones backend robustas con Node.js, el desarrollo de videojuegos y experiencias interactivas con Unity, y la exploración del emocionante mundo de la realidad aumentada y virtual (ARVR). Me encanta sumergirme en estas tecnologías y crear soluciones innovadoras.
+¡Hola! Soy un desarrollador apasionado por la creación de aplicaciones backend con Node.js, el desarrollo de videojuegos y experiencias interactivas con Unity, y la exploración del emocionante mundo de la realidad aumentada y virtual (ARVR). Me encanta sumergirme en estas tecnologías y crear soluciones innovadoras.
 
 ## Lenguajes y Herramientas
 
@@ -32,19 +32,15 @@
 ## Contacto
 
 <div align="center">
-  <a href="https://github.com/ricardo1470">
-    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/GitHub.png" alt="GitHub" width="34">
-  </a>
-  <a href="mailto:ricardo.alfonso.camayo@gmail.com">
-    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/email.png" alt="Correo electrónico" height="32">
-  </a>
-  <a href="https://www.linkedin.com/in/ricardo-alfonso-camayo/">
-    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/linkedin-icon.png" alt="LinkedIn" width="32">
-  </a>
-  <a href="https://twitter.com/RICARDO1470">
-    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/twitter.png" alt="Twitter" width="30">
-  </a>
-</div>
+
+<h2>
+    contact with us<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
+</h2>
+
+
+Ricardo Alfonso Camayo
+| [<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/GitHub.png" alt="Github logo" width="34">](https://github.com/ricardo1470/README/blob/master/README.md) | [<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/email.png" alt="email logo" height="32">](mailto:ricardo.alfonso.camayo@gmail.com) | [<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/linkedin-icon.png" alt="linkedin logo" width="32">](https://www.linkedin.com/in/ricardo-alfonso-camayo/) |
+|:---:|:---:|:---:|
 
 ---
 
