@@ -7,17 +7,18 @@
 
 ---
 ## Languages and Tools
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/mysql.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/postgresql.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/visual-studio-code-logo.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/vuforia.png"></code>&nbsp;
-<code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/images.jpg"></code>&nbsp;
-
+<div align="center">
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/mysql.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/postgresql.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/visual-studio-code-logo.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/vuforia.png"></code>&nbsp;
+    <code><img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/images.jpg"></code>&nbsp;
+</div>
 ---
 ## My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=ricardo1470&show_icons=true&theme=vue-dark" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo1470&count_private=true&show_icons=true&theme=vue-dark&layout=compact" /></a>
