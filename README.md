@@ -1,5 +1,5 @@
 
-> # Backend Nodejs dev | Unity dev | AR/VR dev
+> # Unity Dev | Virtual Reality Dev | Augmented Reality Dev | Blender Dev | Backend Dev | Nodejs Dev
 ---
 
 <div align="center">
