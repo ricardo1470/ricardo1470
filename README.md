@@ -1,5 +1,5 @@
 
-> # Unity Dev | Virtual Reality Dev | Augmented Reality Dev | Blender Dev | Backend Dev | Nodejs Dev
+> # <div align="center">Unity Dev | Virtual Reality Dev | Augmented Reality Dev <br> Blender Dev | Backend Dev | Nodejs Dev</div>
 ---
 
 <div align="center">
