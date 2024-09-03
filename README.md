@@ -1,34 +1,42 @@
 # <div align="center">🎮 Game Developer | Unity Expert | AR/VR Specialist 🚀</div>
 
 <div align="center">
-  <a href="dreamweaverstudio.com.co">
-    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo2.gif" alt="Personal logo" width="600" height="600" style="border-radius: 60%; overflow: hidden;">
+  <a href="https://dreamweaverstudio.com.co">
+    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo2.gif" alt="Personal logo" width="300" height="300" style="border-radius: 50%; overflow: hidden;">
   </a>
 </div>
 
 ### 👨‍💻 About Me
 
-Hello! I'm a passionate developer dedicated to creating immersive experiences and captivating games. My expertise spans:
+Hello! I'm Ricardo Alfonso Camayo, a passionate developer dedicated to creating immersive experiences and captivating games. With a robust background in:
 
-- 🕹️ Video game development with Unity
-- 🥽 Creation of Virtual Reality (VR) experiences
-- 📱 Design of Augmented Reality (AR) applications
-- 🛠️ Backend development with Node.js
-- 🎨 3D modeling with Blender
+- 🕹️ **Video game development:** Mastering Unity for creating dynamic and engaging games.
+- 🥽 **Virtual Reality (VR):** Designing fully immersive VR environments that push the boundaries of interaction.
+- 📱 **Augmented Reality (AR):** Bringing digital elements to the real world with AR applications.
+- 🛠️ **Backend development:** Building solid and scalable backend systems using Node.js.
+- 🎨 **3D Modeling:** Crafting intricate 3D models and animations with Blender.
 
-I love tackling technical challenges and transforming creative ideas into digital reality.
+I'm constantly seeking to push the boundaries of technology and creativity, turning complex challenges into digital solutions. Some of my notable projects include [Project Name] and [Project Name], where I led the development of [specific feature or impact].
+
+### 🚀 Featured Projects
+
+- **[Project Name](link-to-repo):** Breve descripción del proyecto. Tecnologías utilizadas: Unity, C#, VR/AR.
+- **[Project Name](link-to-repo):** Breve descripción del proyecto. Tecnologías utilizadas: Node.js, Blender, AR.
+
+![Project Gif](link-to-gif)
+*Project Name:* Breve descripción del proyecto y su impacto.
 
 ### 🛠️ Technologies and Tools
 
-<div align="center">
-  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png" alt="Unity" title="Unity">
-  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unreal-engine.jpg" alt="Unreal Engine" title="Unreal Engine">
-  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png" alt="C#" title="C#">
-  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/blender.png" alt="Blender" title="Blender">
-  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png" alt="JavaScript" title="JavaScript">
-  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg" alt="Node.js" title="Node.js">
-  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png" alt="Git" title="Git">
-</div>
+| Tool           | Description                                           |
+|----------------|-------------------------------------------------------|
+| Unity          | Core engine for game development and VR experiences   |
+| Unreal Engine  | Utilized for high-fidelity graphics and complex games |
+| C#             | Main programming language for Unity and backend logic |
+| Blender        | Creating 3D models, animations, and VR assets         |
+| JavaScript     | Scripting interactive elements and frontend logic     |
+| Node.js        | Backend development for scalable applications         |
+| Git            | Version control for all my projects                   |
 
 ### 📫 Contact
 
@@ -44,8 +52,8 @@ I love tackling technical challenges and transforming creative ideas into digita
 
 <div align="center">
 <h3>
-  Let's connect! <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
+  Let's connect and create something amazing together! <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
 </h3>
 </div>
 
-Do you have an innovative idea or are you looking to collaborate on an exciting project? Let's talk! I'm always seeking new challenges and opportunities to create amazing digital experiences.
+**Interested in collaborating on a VR/AR project or need a Unity expert?** Feel free to reach out—I'm always open to exploring new opportunities and turning creative ideas into reality.
