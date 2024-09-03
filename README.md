@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://dreamweaverstudio.com.co">
-    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo2.gif" alt="Personal logo" width="300" height="300" style="border-radius: 50%; overflow: hidden;">
+    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo2.gif" alt="Personal logo" width="300" height="300" style="border-radius: 50%; display: block; overflow: hidden;">
   </a>
 </div>
 
