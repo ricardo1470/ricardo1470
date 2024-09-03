@@ -20,13 +20,9 @@
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png" alt="Git" title="Git">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png" alt="C#" title="C#">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png" alt="JavaScript" title="JavaScript">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/mysql.png" alt="MySQL" title="MySQL">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg" alt="Node.js" title="Node.js">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/postgresql.png" alt="PostgreSQL" title="PostgreSQL">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png" alt="Unity" title="Unity">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/visual-studio-code-logo.png" alt="Visual Studio Code" title="Visual Studio Code">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/vuforia.png" alt="Vuforia" title="Vuforia">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/images.jpg" alt="Imágenes" title="Imágenes">
 </div>
 
 ## Contacto
