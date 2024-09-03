@@ -42,7 +42,7 @@ I'm constantly seeking to push the boundaries of technology and creativity, turn
 ---
 
 <div align="center">
-<h2>Ricardo Alfonso Camayo</h2>
+  <h2>Ricardo Alfonso Camayo</h2>
 </div>
 
 <div align="center">
@@ -52,9 +52,9 @@ I'm constantly seeking to push the boundaries of technology and creativity, turn
 </div>
 
 <div align="center">
-<h3>
-  Let's connect and create something amazing together! <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
-</h3>
+  <h3>
+    Let's connect and create something amazing together! <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
+  </h3>
 </div>
 
 **Interested in collaborating on a VR/AR project or need a Unity expert?** Feel free to reach out—I'm always open to exploring new opportunities and turning creative ideas into reality.
