@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="dreamweaverstudio.com.co">
-    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo1.gif" alt="Tu logo personal" width="600" height="600">
+    <img src="https://github.com/ricardo1470/ricardo1470/blob/master/img/LogoVideo2.gif" alt="Tu logo personal" width="600" height="600">
   </a>
 </div>
 
