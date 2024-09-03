@@ -33,7 +33,7 @@ I'm constantly seeking to push the boundaries of technology and creativity, turn
 | Unity          | Core engine for game development and VR experiences   |
 | Unreal Engine  | Utilized for high-fidelity graphics and complex games |
 | C#             | Main programming language for Unity and backend logic |
-| Blender        | Creating 3D models, animations, and VR assets         |
+| Blender        | Creating 3D models.        |
 | JavaScript     | Scripting interactive elements and frontend logic     |
 | Node.js        | Backend development for scalable applications         |
 | Git            | Version control for all my projects                   |
