@@ -1,6 +1,4 @@
-
-> # <div align="center">Unity Dev | Virtual Reality Dev | Augmented Reality Dev <br> Blender Dev | Backend Dev | Nodejs Dev</div>
----
+<div align="center">🎮 Game Developer | Unity Expert | AR/VR Specialist 🚀</div>
 
 <div align="center">
   <a href="dreamweaverstudio.com.co">
@@ -8,37 +6,41 @@
   </a>
 </div>
 
----
+👨‍💻 Sobre mí
+¡Hola! Soy un desarrollador apasionado por crear experiencias inmersivas y juegos cautivadores. Mi expertise abarca:
 
-## Acerca de mí
+🕹️ Desarrollo de videojuegos con Unity
+🥽 Creación de experiencias de Realidad Virtual (VR)
+📱 Diseño de aplicaciones de Realidad Aumentada (AR)
+🛠️ Desarrollo backend con Node.js
+🎨 Modelado 3D y animación con Blender
 
-¡Hola! Soy un desarrollador apasionado por la creación de aplicaciones backend con Node.js, el desarrollo de videojuegos y experiencias interactivas con Unity, y la exploración del emocionante mundo de la realidad aumentada y virtual (ARVR). Me encanta sumergirme en estas tecnologías y crear soluciones innovadoras.
-
-## Lenguajes y Herramientas
-
+Me encanta enfrentar desafíos técnicos y transformar ideas creativas en realidad digital.
+🛠️ Tecnologías y Herramientas
 <div align="center">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png" alt="Git" title="Git">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png" alt="Unity" title="Unity">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unreal-engine.jpg" alt="Unreal Engine" title="Unreal Engine">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/blender.png" alt="Blender" title="Blender">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png" alt="JavaScript" title="JavaScript">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg" alt="Node.js" title="Node.js">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png" alt="C#" title="C#">
+  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png" alt="Unity" title="Unity">
+  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unreal-engine.jpg" alt="Unreal Engine" title="Unreal Engine">
+  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png" alt="C#" title="C#">
+  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/blender.png" alt="Blender" title="Blender">
+  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png" alt="JavaScript" title="JavaScript">
+  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg" alt="Node.js" title="Node.js">
+  <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png" alt="Git" title="Git">
+</div>
+🚀 Proyectos Destacados
+
+🎮 [Nombre del Juego]: Juego de [género] desarrollado en Unity. [Breve descripción]
+🥽 [Experiencia VR]: Aplicación de Realidad Virtual para [propósito]. Desarrollada con [tecnología].
+📱 [App AR]: Solución de Realidad Aumentada para [industria/uso]. Implementada con [herramientas].
+
+📊 Estadísticas de GitHub
+Show Image
+📫 Contacto
+<div align="center">
+<h3>
+    ¡Conectemos! <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
+</h3>
+Ricardo Alfonso Camayo
+<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/GitHub.png" alt="Github logo" width="34"><img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/email.png" alt="email logo" height="32"><img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/linkedin-icon.png" alt="linkedin logo" width="32">
 </div>
 
-## Contacto
-
-<div align="center">
-
-<h2>
-    contact with us<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
-</h2>
-
-
-Ricardo Alfonso Camayo
-| [<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/GitHub.png" alt="Github logo" width="34">](https://github.com/ricardo1470/README/blob/master/README.md) | [<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/email.png" alt="email logo" height="32">](mailto:ricardo.alfonso.camayo@gmail.com) | [<img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/linkedin-icon.png" alt="linkedin logo" width="32">](https://www.linkedin.com/in/ricardo-alfonso-camayo/) |
-|:---:|:---:|:---:|
-
----
-
-¡Encantado de conocerte! Si tienes alguna pregunta o proyecto en mente, no dudes en ponerte en contacto conmigo. Estoy emocionado por colaborar y crear soluciones increíbles juntos.
+¿Tienes una idea innovadora o buscas colaborar en un proyecto emocionante? ¡Hablemos! Estoy siempre en busca de nuevos desafíos y oportunidades para crear experiencias digitales asombrosas.
