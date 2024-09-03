@@ -14,7 +14,7 @@ Hello! I'm Ricardo Alfonso Camayo, a passionate developer dedicated to creating 
 - 🥽 **Virtual Reality (VR):** Designing fully immersive VR environments that push the boundaries of interaction.
 - 📱 **Augmented Reality (AR):** Bringing digital elements to the real world with AR applications.
 - 🛠️ **Backend development:** Building solid and scalable backend systems using Node.js.
-- 🎨 **3D Modeling:** Crafting intricate 3D models and animations with Blender.
+- 🎨 **3D Modeling:** Crafting intricate 3D models with Blender.
 
 I'm constantly seeking to push the boundaries of technology and creativity, turning complex challenges into digital solutions. Some of my notable projects include [Project Name] and [Project Name], where I led the development of [specific feature or impact].
 
