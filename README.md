@@ -46,8 +46,11 @@ Show Image
 <h3>
     ¡Conectemos! <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
 </h3>
-Ricardo Alfonso Camayo
 <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/GitHub.png" alt="Github logo" width="34"><img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/email.png" alt="email logo" height="32"><img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/linkedin-icon.png" alt="linkedin logo" width="32">
+</div>
+
+<div align="center">
+<h2>Ricardo Alfonso Camayo</h2>
 </div>
 
 ¿Tienes una idea innovadora o buscas colaborar en un proyecto emocionante? ¡Hablemos! Estoy siempre en busca de nuevos desafíos y oportunidades para crear experiencias digitales asombrosas.
