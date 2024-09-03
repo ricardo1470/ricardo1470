@@ -31,16 +31,6 @@ Me encanta enfrentar desafíos técnicos y transformar ideas creativas en realid
 
 <br>
 
-### 🚀 Proyectos Destacados
-
-🎮 [Nombre del Juego]: Juego de [género] desarrollado en Unity. [Breve descripción]
-🥽 [Experiencia VR]: Aplicación de Realidad Virtual para [propósito]. Desarrollada con [tecnología].
-📱 [App AR]: Solución de Realidad Aumentada para [industria/uso]. Implementada con [herramientas].
-
-### 📊 Estadísticas de GitHub
-
-Show Image
-
 ### 📫 Contacto
 
 <div align="center">
