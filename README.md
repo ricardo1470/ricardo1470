@@ -20,11 +20,8 @@ I'm constantly seeking to push the boundaries of technology and creativity, turn
 
 ### 🚀 Featured Projects
 
-- **[Project Name](link-to-repo):** Breve descripción del proyecto. Tecnologías utilizadas: Unity, C#, VR/AR.
-- **[Project Name](link-to-repo):** Breve descripción del proyecto. Tecnologías utilizadas: Node.js, Blender, AR.
-
-![Project Gif](link-to-gif)
-*Project Name:* Breve descripción del proyecto y su impacto.
+- **[SST]:** Explore the project in-depth on my [website](https://dreamweaverstudio.com.co/dreamweaversinteractivestudio). Technologies used: Unity, C#, VR, blender.
+- **[Shooter]:** Discover more about this project on my [website](https://dreamweaverstudio.com.co/dreamweaversinteractivestudio). Technologies used: Unity, C#.
 
 ### 🛠️ Technologies and Tools
 
