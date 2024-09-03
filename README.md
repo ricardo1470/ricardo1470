@@ -7,6 +7,7 @@
 </div>
 
 ### 👨‍💻 About Me
+---
 
 Hello! I'm Ricardo Alfonso Camayo, a passionate developer dedicated to creating immersive experiences and captivating games. With a robust background in:
 
@@ -19,11 +20,13 @@ Hello! I'm Ricardo Alfonso Camayo, a passionate developer dedicated to creating 
 I'm constantly seeking to push the boundaries of technology and creativity, turning complex challenges into digital solutions. Some of my notable projects include [Project Name] and [Project Name], where I led the development of [specific feature or impact].
 
 ### 🚀 Featured Projects
+---
 
 - **[SST]:** Explore the project in-depth on my [website](https://dreamweaverstudio.com.co/dreamweaversinteractivestudio). Technologies used: Unity, C#, VR, blender.
 - **[Shooter]:** Discover more about this project on my [website](https://dreamweaverstudio.com.co/dreamweaversinteractivestudio). Technologies used: Unity, C#.
 
 ### 🛠️ Technologies and Tools
+---
 
 | Tool           | Description                                           |
 |----------------|-------------------------------------------------------|
@@ -36,6 +39,7 @@ I'm constantly seeking to push the boundaries of technology and creativity, turn
 | Git            | Version control for all my projects                   |
 
 ### 📫 Contact
+---
 
 <div align="center">
 <h2>Ricardo Alfonso Camayo</h2>
