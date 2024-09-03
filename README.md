@@ -6,17 +6,19 @@
   </a>
 </div>
 
-👨‍💻 Sobre mí
+### 👨‍💻 Sobre mí <br>
+
 ¡Hola! Soy un desarrollador apasionado por crear experiencias inmersivas y juegos cautivadores. Mi expertise abarca:
 
 🕹️ Desarrollo de videojuegos con Unity
 🥽 Creación de experiencias de Realidad Virtual (VR)
 📱 Diseño de aplicaciones de Realidad Aumentada (AR)
 🛠️ Desarrollo backend con Node.js
-🎨 Modelado 3D y animación con Blender
+🎨 Modelado 3D con Blender
 
 Me encanta enfrentar desafíos técnicos y transformar ideas creativas en realidad digital.
-🛠️ Tecnologías y Herramientas
+
+### 🛠️ Tecnologías y Herramientas <br>
 <div align="center">
   <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png" alt="Unity" title="Unity">
   <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unreal-engine.jpg" alt="Unreal Engine" title="Unreal Engine">
@@ -26,20 +28,25 @@ Me encanta enfrentar desafíos técnicos y transformar ideas creativas en realid
   <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg" alt="Node.js" title="Node.js">
   <img height="50" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/Git_logo.png" alt="Git" title="Git">
 </div>
+
+<br>
+
 🚀 Proyectos Destacados
 
 🎮 [Nombre del Juego]: Juego de [género] desarrollado en Unity. [Breve descripción]
 🥽 [Experiencia VR]: Aplicación de Realidad Virtual para [propósito]. Desarrollada con [tecnología].
 📱 [App AR]: Solución de Realidad Aumentada para [industria/uso]. Implementada con [herramientas].
 
-📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
+
 Show Image
-📫 Contacto
+
+### 📫 Contacto
 <div align="center">
 <h3>
     ¡Conectemos! <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/Handshake.gif" height="32px">
 </h3>
-Ricardo Alfonso Camayo
+Ricardo Alfonso Camayo <br>
 <img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/GitHub.png" alt="Github logo" width="34"><img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/email.png" alt="email logo" height="32"><img src="https://github.com/SurvivalRoomVR/ar-vr-portfolio-project/blob/main/img/linkedin-icon.png" alt="linkedin logo" width="32">
 </div>
 
