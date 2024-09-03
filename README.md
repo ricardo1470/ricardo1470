@@ -21,7 +21,6 @@
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unity3d-logo.png" alt="Unity" title="Unity">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/unreal-engine.jpg" alt="Unreal Engine" title="Unreal Engine">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/blender.png" alt="Blender" title="Blender">
-  <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/logoHoudini.png" alt="Houdini" title="Houdini">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/js.png" alt="JavaScript" title="JavaScript">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/node2.jpg" alt="Node.js" title="Node.js">
   <img height="43" src="https://github.com/ricardo1470/ricardo1470/blob/master/img/c.png" alt="C#" title="C#">
